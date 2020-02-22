@@ -1,7 +1,7 @@
 #SSH HUNTER
 
 Usage:
-	ssh-hunter <host>
+	ssh-hunter [host]
 
 
 This a lab experiment only, don't use this script for evil.
