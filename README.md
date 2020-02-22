@@ -4,8 +4,8 @@ Usage:
 	ssh-hunter [host]
 
 
-This a lab experiment only, don't use this script for evil.
+This is a lab experiment only, don't use this script for evil.
 
-Changing your ssh port is not secure at all.
+Also keep in mind that changing your ssh port is not as secure as you may think.
 
 Always disable password auth and use ssh private and pubkey insted.
