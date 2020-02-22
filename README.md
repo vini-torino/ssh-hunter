@@ -1,4 +1,4 @@
-#SSH HUNTER
+SSH HUNTER
 
 Usage:
 	ssh-hunter [host]
